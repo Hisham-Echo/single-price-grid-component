@@ -38,7 +38,7 @@ a:hover {
     color: var(--Bright-Yellow);
 }
 
-header {
+header,h1 {
     font-size: 1.3rem;
     font-weight: 700;
     margin-bottom: 25px;
@@ -71,7 +71,7 @@ main {
     -o-border-radius: 5px 5px 0 0;
 }
 
-.cards .top header {
+.cards .top header h1 {
     color: var(--Cyan);
 }
 
