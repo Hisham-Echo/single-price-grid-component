@@ -91,4 +91,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub
 
 **Live-Preview:**
-https://hisham3243.github.io/single-price-grid-component/
+https://hisham-echo.github.io/single-price-grid-component/
